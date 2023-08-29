@@ -66,6 +66,7 @@
   /* Button Hover Effect */
   .button:hover {
     background-color: var(--button-hover-color); /* Change button color on hover */
+    transition: 60 ease-in;
   }
 
   /* Responsive Design */
